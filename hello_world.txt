@@ -1,1 +1,3 @@
 TEST
+
+Learn about the commit message
